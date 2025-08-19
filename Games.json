@@ -1,0 +1,29 @@
+{
+  "games": [
+    {
+      "title": "Nova Quest",
+      "description": "Sci-fi akció-kaland játék. Fedezd fel a galaxist és győzd le az ellenségeket!",
+      "version": "1.2.3",
+      "last_update": "2025-08-10",
+      "publisher": "IndieDev",
+      "image": "https://example.com/images/nova_quest_cover.png",
+      "screenshots": [
+        "https://example.com/images/nova_quest_ss1.png",
+        "https://example.com/images/nova_quest_ss2.png"
+      ]
+    },
+    {
+      "title": "Zombie Royale",
+      "description": "Battle royale zombikkal, coop és PvP módokkal.",
+      "version": "0.9.0-beta",
+      "last_update": "2025-07-30",
+      "publisher": "IndieDev",
+      "image": "https://example.com/images/zombie_royale_cover.png",
+      "screenshots": [
+        "https://example.com/images/zombie_royale_ss1.png",
+        "https://example.com/images/zombie_royale_ss2.png",
+        "https://example.com/images/zombie_royale_ss3.png"
+      ]
+    }
+  ]
+}
